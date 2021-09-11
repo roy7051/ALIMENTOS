@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501875058100",
+    "project_id": "my-new-project-d2bc7",
+    "storage_bucket": "my-new-project-d2bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501875058100:android:02dbf2e1f3c12b5fb43ee1",
+        "android_client_info": {
+          "package_name": "com.example.alimentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501875058100-ris62iee19p3t6um2fqr5rtkir7uniu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alimentos",
+            "certificate_hash": "530b48fd63ea0353874d5973e42accbc0445f328"
+          }
+        },
+        {
+          "client_id": "501875058100-jou4ob6cgs83s1as30bqs239hi3i65ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_AfPQl1dYMzhxnqknOrBLz7pvws2a2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501875058100-jou4ob6cgs83s1as30bqs239hi3i65ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
